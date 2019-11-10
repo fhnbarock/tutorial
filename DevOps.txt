@@ -2,4 +2,7 @@ Contoh Software untuk DevOps
 - Envoy Zipkin
 - Promotheus + Thanos (dipakai Airy)
 - EFK Elastic Search + Kibana
-- Azure DevOps
+- Azure DevOps (Bosnet ada gitnya) 
+
+Reference
+https://www.udemy.com/course/azure-devops-repos-with-git-and-visual-studio-for-developers/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_77879424134_._ad_386759469016_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_1007716_._pd__._&matchtype=b
