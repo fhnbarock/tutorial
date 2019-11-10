@@ -1,0 +1,4 @@
+Contoh Software untuk DevOps
+- Envoy Zipkin
+- Promotheus + Thanos (dipakai Airy)
+- EFK Elastic Search
