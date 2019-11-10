@@ -1,6 +1,5 @@
 Contoh Software untuk DevOps
 - Envoy Zipkin
 - Promotheus + Thanos (dipakai Airy)
-- EFK Elastic Search
-- Kibana
+- EFK Elastic Search + Kibana
 - Azure DevOps
